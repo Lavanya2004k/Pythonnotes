@@ -29,7 +29,7 @@ class Employee:
         cls.new_raise=amount
         
 emp1 = Employee("Lavhanya","Kotha",5000) # they are called objects/instances because they are using class
-emp2 = Employee("Nihar","Shah",3000)
+emp2 = Employee("Ni","S",3000)
 Employee.set_raiseamount(1.05)
 # print(Employee.n_emps)
 # print(emp1.fullname())
